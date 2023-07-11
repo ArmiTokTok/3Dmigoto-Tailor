@@ -42,4 +42,19 @@ see: https://github.com/SilentNightSound/GI-Model-Importer/pull/84
  - KALABIYAU 卡拉比丘(测试服) 
  - BLUE PROTOCOLS 蓝色协议
 
+# Community
+
+https://discord.gg/66gdwW8NWC
+
+Join this discord for:
+
+1.Technique support
+
+2.bug-report
+
+3.advice and feedback
+
+4.Other
+
+
 
